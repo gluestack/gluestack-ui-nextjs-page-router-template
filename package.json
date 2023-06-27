@@ -1,7 +1,11 @@
 {
-  "name": "test-template-page-router",
+  "name": "nextjs-page-router",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gluestack/nextjs-page-router.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
